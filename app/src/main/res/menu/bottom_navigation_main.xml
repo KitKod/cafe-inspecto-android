@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_statistics"
+        android:enabled="true"
+        android:icon="@drawable/ic_statistics"
+        android:title="@string/bnv_statistics"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_menu_cafe"
+        android:enabled="true"
+        android:icon="@drawable/ic_restaurant_menu"
+        android:title="@string/bnv_menu_cafe"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_tables"
+        android:enabled="true"
+        android:icon="@drawable/ic_event_seat"
+        android:title="@string/tab_tables"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_staff"
+        android:enabled="true"
+        android:icon="@drawable/ic_people"
+        android:title="@string/bnv_staff"
+        app:showAsAction="ifRoom"/>
+</menu>

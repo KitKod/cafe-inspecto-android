@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726292391468",
+    "firebase_url": "https://cafeinspector-b941b.firebaseio.com",
+    "project_id": "cafeinspector-b941b",
+    "storage_bucket": "cafeinspector-b941b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726292391468:android:a3ccc99872801d4d",
+        "android_client_info": {
+          "package_name": "ua.kamak.cafeinspector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726292391468-fb2k7svpl8k8nnt9o6r6abv88g46ci8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.kamak.cafeinspector",
+            "certificate_hash": "91411b26a943bfc6fe29af7733b29f518004883d"
+          }
+        },
+        {
+          "client_id": "726292391468-tpfdfdi3squfs5jm8iquj7gvdqtu6ced.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs-V3ygQ67nl6Ac9fv3UI0qqNwmGJ4SGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726292391468-tpfdfdi3squfs5jm8iquj7gvdqtu6ced.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

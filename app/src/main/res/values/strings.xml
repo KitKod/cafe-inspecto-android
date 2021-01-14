@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Cafe Inspector</string>
+    <string name="toolbar_title">Администратор</string>
+    <string name="toolbar_title_waiter">Официант</string>
+    <string name="toolbar_title_terminal">Терминал</string>
+
+    <string-array name="who_is_you">
+        <item>Владелец</item>
+        <item>Официант</item>
+        <item>Терминал</item>
+    </string-array>
+
+    <string-array name="category_of_dishs">
+        <item>Основное блюдо</item>
+        <item>Напиток</item>
+        <item>Десерт</item>
+    </string-array>
+
+    <string-array name="status_of_table">
+        <item>Свободен</item>
+        <item>Занят</item>
+        <item>Зарезервирован</item>
+    </string-array>
+
+    <string name="reg_login">Вход</string>
+    <string name="reg_logout">Выход</string>
+    <string name="reg_registration">Регистрация</string>
+
+    <string name="bnv_statistics">Статистика</string>
+    <string name="bnv_staff">Персонал</string>
+    <string name="bnv_menu_cafe">Меню</string>
+
+
+    <string name="staff_item_name">Имя сотрудника:</string>
+    <string name="staff_item_job">Должность:</string>
+    <string name="staff_item_age">Возраст:</string>
+
+    <string name="order_item_number">Столик №</string>
+    <string name="table_item_number_seats">Мест: </string>
+    <string name="table_item_status">Статус: </string>
+    <string name="order_item_price">Сумма к оплате:</string>
+    <string name="order_item_sum">Сумма:</string>
+
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="ready">Закрыть заказ</string>
+    <string name="cooked">Заказ готов</string>
+    <string name="code_workers_toast">Код сотрудника скопирован в буфер обмена</string>
+    <string name="code_owners_toast">Код заведения скопирован в буфер обмена</string>
+
+    <string name="code_workers_menu">Код сотрудника</string>
+    <string name="code_owner">Код заведения</string>
+
+    <string name="tab_orders">Заказы</string>
+    <string name="tab_tables">Столы</string>
+    <string name="dish_price">Цена:</string>
+
+    <string name="add_new_order">Создать новый заказ</string>
+
+    <string name="table_item_number_hint">Номер стола</string>
+    <string name="table_item_number_of_seats_hint">Количество мест</string>
+
+    <string name="table_menu_status_busy">Статуc \"Занят\"</string>
+    <string name="table_menu_status_free">Статуc \"Свободен\"</string>
+    <string name="table_menu_status_reserved">Статуc \"Зарезервирован\"</string>
+
+    <string name="btn_send">Готово</string>
+    <string name="login_email">Почта</string>
+    <string name="login_password">Пароль</string>
+
+    <string name="reg_ac">Войти как:</string>
+
+
+
+
+</resources>

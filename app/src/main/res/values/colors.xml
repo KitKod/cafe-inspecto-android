@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8e24aa</color>
+    <color name="colorPrimaryDark">#5c007a</color>
+    <color name="colorAccent">#c158dc</color>
+
+    <color name="white">#ffffff</color>
+    <color name="noSelectedTab">#c2c2c2</color>
+    <color name="menuImageBackgraund">#2d2d2d</color>
+
+    <color name="tableStatusFreeBackgraund">#8cc079</color>
+    <color name="tableStatusBusyBackgraund">#f16a5f</color>
+    <color name="tableStatusReservedBackgraund">#55ade1</color>
+</resources>
